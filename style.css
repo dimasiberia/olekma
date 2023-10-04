@@ -1,0 +1,183 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.section {
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 50px;
+}
+
+.sectionreverse {
+    margin: 50px;
+}
+
+.hub {
+    display: flex;
+    align-items: end;
+}
+
+.sandstone {
+    background-color: green;
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    position: relative;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite {
+    background-color: pink;
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.argillite {
+    background-color: rgb(27, 93, 47);
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-smalllayyered {
+    background-color: rgb(221, 150, 237);
+    width: 118px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-withcracks {
+    background-color: rgba(243, 137, 31, 0.793);
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-silty {
+    background-color: rgb(244, 130, 149);
+    width: 125px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-wavy {
+    background-color: rgb(186, 102, 116);
+    width: 126px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-smallwavy {
+    background-color: rgb(186, 163, 102);
+    width: 122px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-hammocky {
+    background-color: rgb(135, 172, 83);
+    width: 120px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.dolomitolite-bilds {
+    background-color: rgb(94, 143, 26);
+    width: 125px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.breccia {
+    background-color: red;
+    width: 140px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.crossbedded {
+    background-color: rgb(226, 174, 61);
+    width: 126px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.close {
+
+    width: 0px;
+    height: 30px;
+    border-left: 1px solid black;
+    margin: -1px -1px 0 0;
+}
+
+.div {
+    display: flex;
+    align-items: flex-end;
+}
+
+span {
+    width: 35px;
+    font-size: 10px;
+    text-align: end;
+    margin-right: 5px;
+    margin-top: -7px;
+
+
+}
+
+.sample {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.sample div {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    margin-top: -5px;
+
+}
+
+div.image {
+    background-color: green;
+}
+
+img {
+    display: none;
+    width: 500px;
+}
+
+.sample div:active~div img {
+    display: block;
+    overflow: auto;
+}
+
+.sample span {
+    width: 80px;
+    display: none;
+
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.legend {
+    position: sticky;
+    top: 0px;
+    right: 0px;
+    height: 400px;
+}
