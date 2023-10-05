@@ -25,8 +25,7 @@ document.addEventListener("click", (event) => {
     event.target.classList.toggle("red");
   }
 });
-const observer = lozad();
-observer.observe();
+
 /* <div class="div">
   <span>120.68</span>
   <div class="dolomitolite-bilds" style="height: 34px"></div>
