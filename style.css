@@ -160,10 +160,6 @@ img {
     margin: 1px;
 }
 
-.sample div:active~div img {
-    display: block;
-    overflow: auto;
-}
 
 .sample span {
     width: 80px;
