@@ -137,13 +137,13 @@ span {
 .sample {
     margin-left: 20px;
     display: flex;
-    align-items: center;
+    align-items: end;
 
 }
 
-.sample div {
+.sample div.square {
     width: 10px;
-    height: 10px;
+    min-height: 10px;
     background-color: black;
     margin-top: -5px;
 
@@ -154,8 +154,10 @@ div.image {
 }
 
 img {
-    display: none;
+
     width: 500px;
+    border: 2px solid black;
+    margin: 1px;
 }
 
 .sample div:active~div img {
@@ -165,19 +167,35 @@ img {
 
 .sample span {
     width: 80px;
-    display: none;
 
 }
 
-.form {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-}
 
 .legend {
     position: sticky;
     top: 0px;
     right: 0px;
     height: 400px;
+}
+
+.image-container {
+    display: none;
+    position: relative;
+    left: 200px;
+}
+
+.show {
+    display: flex;
+    overflow: visible;
+
+}
+
+.sample div.hasPhoto {
+    background-color: green;
+    display: flex;
+}
+
+.sample div.red {
+    background-color: red;
+    display: flex;
 }

@@ -13,10 +13,19 @@ function insertDiv() {
   </div>
 </div>`
   );
+  document.querySelector().classList.toggle("show");
 }
-
-{
-  /* <div class="div">
+document.addEventListener("click", (event) => {
+  if (
+    event.target.nextElementSibling.nextElementSibling.classList.contains(
+      "image-container"
+    )
+  ) {
+    event.target.nextElementSibling.nextElementSibling.classList.toggle("show");
+    event.target.classList.toggle("red");
+  }
+});
+/* <div class="div">
   <span>120.68</span>
   <div class="dolomitolite-bilds" style="height: 34px"></div>
   <div class="sample">
@@ -24,4 +33,3 @@ function insertDiv() {
     <span>2201.5-120.68</span>
   </div>
 </div>; */
-}
