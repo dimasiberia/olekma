@@ -125,11 +125,11 @@
 }
 
 span {
-    width: 35px;
+    width: 30px;
     font-size: 10px;
-    text-align: end;
     margin-right: 5px;
     margin-top: -7px;
+    margin-left: 5px;
 
 
 }
@@ -181,7 +181,6 @@ img {
 .image-container {
     display: none;
     position: relative;
-    left: 200px;
 }
 
 .show {
