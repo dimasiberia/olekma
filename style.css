@@ -195,6 +195,60 @@ simage5_10.4bckground-image: url(")}_xts/2201.5_140.40_x125XP_1.jpg"  alt="">125
 simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 1image21_2.bakground-image: url("01.5_139.21_x2.5XP.jpg"  alt="">"){}" sr
 1image21_2.bakground-image: url("01.5_139.21_x2.5XP_1.jpg"  alt="">"){}" sr */
+.image14040XP12 {
+    background-image: url("./assets/2201.5_140.40_x125XP.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image14040XP13 {
+    background-image: url("./assets/2201.5_140.40_x125XP_1.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image13970XP12 {
+    background-image: url("./assets/2201.5_139.70_x2.5XP.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image13970XP13 {
+    background-image: url("./assets/2201.5_139.70_x5XP.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image13921XP12 {
+    background-image: url("./assets/2201.5_139.21_x2.5XP.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image13921XP13 {
+    background-image: url("./assets/2201.5_139.21_x2.5XP_1.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
 .image13854XP12 {
     background-image: url("./assets/2201-5-138-54XP-12.jpg");
     width: 500px;
@@ -1077,28 +1131,31 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-/* .image12068XP74 {
-    background-image: url("=" ./assets/2201-5-120-68XP-74.jpg") };
+.image12068XP74 {
+    background-image: url("./assets/2201-5-120-68XP-74.jpg");
     width: 500px;
-  height: 200px;
+    height: 376px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image12068XP75 {
+    background-image: url("./assets/2201-5-120-68XP-75.jpg");
+    width: 500px;
+    height: 376px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.image12025XP76 {
+    background-image: url("./assets/2201-5-120-25XP-76.jpg");
+    width: 500px;
+    height: 367px;
     background-size: contain;
     background-repeat: no-repeat;
 
- .image12068XP75 {
-            background-image: url("=" ./assets/2201-5-120-68XP-75.jpg") };
-            width: 500px;
-  height: 200px;
-    background-size: contain;
-    background-repeat: no-repeat;
-
- .image12025XP76 {
-                    background-image: url("./assets/2201-5-120-25XP-76.jpg");
-                    width: 500px;
-  height: 200px;
-    background-size: contain;
-    background-repeat: no-repeat;
-
-                } */
+}
 
 .image12025XP78 {
     background-image: url("./assets/2201-5-120-25XP-78.jpg");
@@ -1154,7 +1211,7 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-.image11941AX-1 {
+.image11941AXP13 {
     background-image: url("./assets/2201-5-119-41AXP-13.jpg");
     width: 500px;
     height: 367px;
@@ -1163,7 +1220,7 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-.image11941AX-1 {
+.image11941AXP14 {
     background-image: url("./assets/2201-5-119-41AXP-14.jpg");
     width: 500px;
     height: 367px;
@@ -1172,7 +1229,7 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-.image11941AX-1 {
+.image11941AXP15 {
     background-image: url("./assets/2201-5-119-41AXP-15.jpg");
     width: 500px;
     height: 367px;
@@ -1181,7 +1238,7 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-.image11941AX-1 {
+.image11941AXP16 {
     background-image: url("./assets/2201-5-119-41AXP-16.jpg");
     width: 500px;
     height: 367px;
@@ -1190,7 +1247,7 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-.image11941BX-1 {
+.image11941BXP10 {
     background-image: url("./assets/2201-5-119-41BXP-10.jpg");
     width: 500px;
     height: 367px;
@@ -1199,8 +1256,8 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 }
 
-.image11941BX-1 {
-    background-image: url("./assets/2201-5-119-41BXP-11.jpg");
+.image11941BXP12 {
+    background-image: url("./assets/2201-5-119-41BXP-12.jpg");
     width: 500px;
     height: 367px;
     background-size: contain;
@@ -1390,6 +1447,96 @@ simage5_19.7bckground-image: url(")}_xts/2201.5_139.70_x5XP.jpg"  alt="">5XP
 
 .image11805XP28 {
     background-image: url("./assets/2201-5-118-05XP-28.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777AXP34 {
+    background-image: url("./assets/2201-5-117-77AXP-34.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777AXP35 {
+    background-image: url("./assets/2201-5-117-77AXP-35.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777AXP36 {
+    background-image: url("./assets/2201-5-117-77AXP-36.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777AXP37 {
+    background-image: url("./assets/2201-5-117-77AXP-37.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777AXP38 {
+    background-image: url("./assets/2201-5-117-77AXP-38.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777AXP39 {
+    background-image: url("./assets/2201-5-117-77AXP-39.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777BXP29 {
+    background-image: url("./assets/2201-5-117-77BXP-29.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777BXP30 {
+    background-image: url("./assets/2201-5-117-77BXP-30.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777BXP31 {
+    background-image: url("./assets/2201-5-117-77BXP-31.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11777BXP33 {
+    background-image: url("./assets/2201-5-117-77BXP-33.jpg");
     width: 500px;
     height: 367px;
     background-size: contain;
