@@ -172,7 +172,7 @@ div.image {
 }
 
 .image-container {
-    display: none;
+    display: flex;
     position: relative;
 }
 
@@ -1309,6 +1309,15 @@ div.image {
 
 .image11920XP18 {
     background-image: url("./assets/2201-5-119-20XP-18.jpg");
+    width: 500px;
+    height: 367px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.image11920XP19 {
+    background-image: url("./assets/2201-5-119-20XP-19.jpg");
     width: 500px;
     height: 367px;
     background-size: contain;
