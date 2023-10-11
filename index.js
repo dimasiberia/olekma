@@ -9,7 +9,7 @@ function insertDiv() {
   <div class="dolomitolite" style="height: ${height}px"></div>
   <div class="sample">
     <div></div>
-    <span>2201.5-${sample}</span>
+    <span>2204.1-${sample}</span>
   </div>
 </div>`
   );
@@ -25,12 +25,6 @@ document.addEventListener("click", (event) => {
     event.target.classList.toggle("red");
   }
 });
-
-/* <div class="div">
-  <span>120.68</span>
-  <div class="dolomitolite-bilds" style="height: 34px"></div>
-  <div class="sample">
-    <div></div>
-    <span>2201.5-120.68</span>
-  </div>
-</div>; */
+document.addEventListener("keyup", (event) => {
+  if (event.code === "Enter") insertDiv();
+});

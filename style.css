@@ -114,6 +114,15 @@
     margin-right: 4px;
 }
 
+.sandstones {
+    background-color: rgb(163, 131, 62);
+    width: 126px;
+    height: 30px;
+    border: 1px solid black;
+    margin: -1px -1px 0 0;
+    margin-right: 4px;
+}
+
 .close {
 
     width: 0px;
